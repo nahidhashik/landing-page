@@ -65,6 +65,7 @@ p{
     border-radius: 5px;
     text-decoration: none;
     /* margin-bottom: 200px; */
+    color: white;
 }
 
 /* a{
@@ -144,4 +145,80 @@ span{
         width: 50%;
     }
 /* section two end */
+
+
+/* section third start */
+
+
+/* .background-img{
+
+    background-image: url(media/images/shapes/shape-1.png);
+
+    background-repeat: no-repeat;
+    background-position: left; 
+
+    background-size: 300px;
+
+
+} */
+
+
+/* .hello{
+
+    background-image: url(media/images/shapes/shape-1.png);
+
+    background-repeat: no-repeat;
+    background-position: left center;
+
+    background-size: 300px;
+
+
+
+
+} */
+
+
+    .section-3{
+
+
+        display: flex;
+
+        margin: 100px;
+        background-image: url(media/images/shapes/shape-1.png);
+
+        background-repeat: no-repeat;
+        background-position: right top;
+
+        background-size: 300px;
+
+    }
+
+
+    .half-img img{
+
+        width: 90%;
+
+        border-radius: 5px;
+    }
+/* 
+    .half-img{
+
+        
+        background-image: url(media/images/shapes/shape-1.png);
+
+        background-repeat: no-repeat;
+        background-position: right bottom;
+
+        background-size: 250px
+    } */
+
+    .div-3{
+
+        margin-right: 200px;
+        padding: 5px;
+        font-size: large;
+
+    }
+
+/* section third end */
 
