@@ -178,6 +178,8 @@ span{
 } */
 
 
+/* section three and four start */
+
     .section-3{
 
 
@@ -187,9 +189,11 @@ span{
         background-image: url(media/images/shapes/shape-1.png);
 
         background-repeat: no-repeat;
-        background-position: right top;
+        background-position: bottom right;
 
         background-size: 300px;
+
+        margin-bottom: 10px;
 
     }
 
@@ -220,5 +224,5 @@ span{
 
     }
 
-/* section third end */
+/* section third and fourth end */
 
