@@ -41,6 +41,7 @@ body{
 
     /* margin */
     padding: 100px;
+    margin-bottom: 10px;
 }
 
 .div-one{
@@ -85,4 +86,62 @@ p{
   /* margin-right: auto; */
   width: 80%;
 }
+
+
+/* section two start */
+
+#my-mission{
+
+    text-align: center;
+}
+
+span{
+
+    color: orange;
+}
+
+
+    .section-22{
+
+
+        display: flex;
+        margin-left: 100px;
+
+        margin-bottom: 10px;
+    }
+
+    
+
+
+
+    .mission-2022{
+
+        background-color: darkgray;
+        margin: 15px;
+        padding: 50px;
+        /* max-width: fit-content; */
+
+        border-radius: 15px;
+
+
+    }
+
+    .color{
+
+        background-color: pink;
+    }
+
+    .color2{
+        background-color: yellow;
+        margin-right: 100px;
+    }
+
+    
+
+
+    .mission-2022 img{
+
+        width: 50%;
+    }
+/* section two end */
 
