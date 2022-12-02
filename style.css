@@ -226,3 +226,54 @@ span{
 
 /* section third and fourth end */
 
+
+
+/* section fourth start */
+
+
+    .section-fourth{
+
+        display: flex;
+       padding-bottom: 10px;
+       /* background-image: url(media/images/shapes/shape-3.png);
+       background-repeat: no-repeat;
+       background-position: left top ;
+
+       background-image: url(media/images/shapes/shape-3.png);
+       background-position: bottom left;
+       background-size: 150px; */
+
+       background: url(media/images/shapes/shape-3.png) left top no-repeat, url(media/images/shapes/shape-5.png) right bottom no-repeat, url(media/images/shapes/shape-4.png) left top no-repeat;
+       background-size: 50px, 130px, 190px;
+    }
+
+/* .corna-img{
+
+
+    background-image: url(media/images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 150px;
+   
+} */
+
+
+
+
+    .corna-img img{
+
+        width: 350px;
+
+        margin-left: 250px;
+
+
+    }
+
+    .corna-blog{
+
+        margin-left: 50px;
+        margin-top: 60px;
+        width: fit-content;
+    }
+/* section fourth end */
+
