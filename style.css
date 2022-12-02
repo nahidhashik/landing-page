@@ -277,3 +277,24 @@ span{
     }
 /* section fourth end */
 
+
+/* footer start */
+
+
+.footer{
+
+    background-color: black;
+    margin: 50px;
+    padding: 25px;
+}
+
+.foo{
+
+    color: white;
+    text-align: center;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* footer end */
+
