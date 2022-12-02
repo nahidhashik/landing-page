@@ -1,7 +1,147 @@
 /* css body start for font and margin */
 body{
 
+    /* google fonts css */
 
-    
+    font-family: 'Montserrat', sans-serif;
+
+    /* google fonts css */
+
+
 }
 /* css body end for font and margin */
+
+
+.top-heading{
+
+   padding: 10px;
+   /* color: orange; */
+   border-left: 5px solid red;
+   font-size: larger;
+   margin-left: 100px;
+   margin-top: 50px;
+   font-weight: 700;
+
+
+}
+.top-heading h2{
+    color: orange;
+}
+
+/* .test h1,h2{
+ 
+    color: red;
+    border-left: 5px solid black;
+} */
+
+
+.header-section{
+
+    display: flex;
+
+    /* margin */
+    padding: 100px;
+    margin-bottom: 10px;
+}
+
+.div-one{
+
+    /* width: fit-content; */
+}
+
+
+
+
+
+
+p{
+    padding-bottom: 10px;
+}
+
+.link-button{
+
+    background-image: linear-gradient(orange, red);
+    padding: 15px;
+    border-radius: 5px;
+    text-decoration: none;
+    /* margin-bottom: 200px; */
+}
+
+/* a{
+   margin-bottom: 300px;
+
+} */
+
+/* .person-0 img{
+
+   margin-right: 100px;
+   padding: 100px;
+    
+} */
+
+.half-width img{
+
+    float: right;
+  /* margin-left: auto; */
+  /* margin-right: auto; */
+  width: 80%;
+}
+
+
+/* section two start */
+
+#my-mission{
+
+    text-align: center;
+}
+
+span{
+
+    color: orange;
+}
+
+
+    .section-22{
+
+
+        display: flex;
+        margin-left: 100px;
+
+        margin-bottom: 10px;
+    }
+
+    
+
+
+
+    .mission-2022{
+
+        background-color: darkgray;
+        margin: 15px;
+        padding: 50px;
+        /* max-width: fit-content; */
+
+        border-radius: 15px;
+
+
+    }
+
+    .color{
+
+        background-color: pink;
+    }
+
+    .color2{
+        background-color: yellow;
+        margin-right: 100px;
+    }
+
+    
+
+
+    .mission-2022 img{
+
+        width: 50%;
+    }
+/* section two end */
+
